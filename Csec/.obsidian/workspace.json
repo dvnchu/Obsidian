@@ -1,0 +1,397 @@
+{
+  "main": {
+    "id": "dc4224a091f4dac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ce63952a30bb6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311ce6bf9c7f12af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Secplus/Vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vulnerabilities"
+            }
+          },
+          {
+            "id": "542a004bd29d8a03",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Source/Pasted image 20251113115414.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251113115414"
+            }
+          },
+          {
+            "id": "90fa757c3c0b00dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5d2f6a1d73497b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Intro Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro Linux"
+            }
+          },
+          {
+            "id": "6e1b90b3bdb60c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Active Directory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active Directory"
+            }
+          },
+          {
+            "id": "49f3717884d7b92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Intro Win.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro Win"
+            }
+          },
+          {
+            "id": "0b4ef15199816246",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6f2eb8d5761dd966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/CMD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMD"
+            }
+          },
+          {
+            "id": "60da3b98de3085f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/CMD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMD"
+            }
+          },
+          {
+            "id": "db1cbae64726f080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/URL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "URL"
+            }
+          },
+          {
+            "id": "c6d2d0b65f9be8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Secplus/1.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2"
+            }
+          },
+          {
+            "id": "797c8c1177ceb0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Secplus/1.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2"
+            }
+          },
+          {
+            "id": "5b7e1d692a8d4a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Secplus/1.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13676578b2478371",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e909b5cca802c46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92199fe48a03598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "594ac79d04e46a53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b495177b6b2caaae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7c57e884ae1fbc45",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42ebdbacd1c0fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c22c4cfdd3e6376",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rough Notes/Flujo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Flujo"
+            }
+          },
+          {
+            "id": "36d7059d6866efef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rough Notes/Flujo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Flujo"
+            }
+          },
+          {
+            "id": "d5279a91a0dca727",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a01290371406aaa4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ce4a373d96ce4bdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rough Notes/Flujo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Flujo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "311ce6bf9c7f12af",
+  "lastOpenFiles": [
+    "Main Notes/Secplus/Threats.md",
+    "Main Notes/Secplus/Vulnerabilities.md",
+    "Main Notes/OSI Model.md",
+    "Main Notes/Secplus/Change Management.md",
+    "Main Notes/Secplus/Security Controls.md",
+    "Main Notes/Secplus/Cryptographic Solutions.md",
+    "Main Notes/Secplus/Fundamental Security Concepts.md",
+    "Source/Pasted image 20260411200930.png",
+    "Main Notes/Secplus/1.1.md~",
+    "Source/Pasted image 20260408193039.png",
+    "Main Notes/Secplus/Untitled 1.md",
+    "Main Notes/Untitled 2.md",
+    "Main Notes/Active Directory.md",
+    "Source/Pasted image 20260403200517.png",
+    "Main Notes/Other Components.md",
+    "Main Notes/DNS.md",
+    "Main Notes/Packets & Frames.md",
+    "Main Notes/UDP.md",
+    "Main Notes/Topology.md",
+    "Main Notes/Secplus",
+    "Main Notes/URL.md",
+    "Main Notes/HTTP.md",
+    "Main Notes/DHCP.md",
+    "Main Notes/CMD.md",
+    "Main Notes/ARP.md",
+    "Main Notes/Intro Win.md",
+    "Main Notes/Ports.md",
+    "Main Notes/Firewalls.md",
+    "Main Notes/VPN.md",
+    "Main Notes/Web servers.md",
+    "Main Notes/TCP.md",
+    "Source/Pasted image 20260310124352.png",
+    "Source/Pasted image 20260130200855.png",
+    "Source/Pasted image 20260130200851.png",
+    "Source/Pasted image 20260130200750.png",
+    "Source/Pasted image 20260130200647.png",
+    "Source/Pasted image 20260128204048.png",
+    "Source/Pasted image 20260128203917.png",
+    "Main Notes/Untitled/Untitled",
+    "Main Notes/Sin título.base",
+    "snippets",
+    "Sin título.canvas",
+    "Main Notes/Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Main Notes",
+    "Templates",
+    "Indexes",
+    "Tags"
+  ]
+}
