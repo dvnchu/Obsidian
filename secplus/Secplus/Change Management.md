@@ -1,4 +1,4 @@
-> [!info] Core Concept
+> 																	[!info] Core Concept
 > Clear policies are needed when making a change like a patch an upgrade or a modification in software
 
 ## Typical approval process

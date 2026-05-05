@@ -1,0 +1,4 @@
+/* Aumenta el tamaño del nodo de la nota "TDA" */
+.graph-view.color-fill-default[data-title*="TDA"] {
+    transform: scale(1.5);
+}
